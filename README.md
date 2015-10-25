@@ -2,6 +2,8 @@
 
 获取当前git的remote地址里的user和project
 
+[![npm version](https://badge.fury.io/js/get-git-info.svg)](http://badge.fury.io/js/get-git-info)
+
 ## Install 
 
 ```
